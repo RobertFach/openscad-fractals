@@ -1,0 +1,15 @@
+{
+  "name": "fractals",
+  "description": "This is a module to create fractal surfaces in OpenSCAD.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertFach/openscad-fractals.git"
+  },
+  "keyword": ["openSCAD","fractals","surface"],
+  "author": "Robert Fach",
+  "bugs": {
+    "url": "https://github.com/RobertFach/openscad-fractals/issues"
+  },
+  "homepage": "https://github.com/RobertFach/openscad-fractals"
+}
